@@ -1,5 +1,5 @@
 {
-  "main.css": "/desafio/static/css/main.a2684528.chunk.css",
+  "main.css": "/desafio/static/css/main.f51bca8e.chunk.css",
   "main.js": "/desafio/static/js/main.0090e8b2.chunk.js",
   "main.js.map": "/desafio/static/js/main.0090e8b2.chunk.js.map",
   "runtime~main.js": "/desafio/static/js/runtime~main.7c1af342.js",
@@ -8,9 +8,9 @@
   "static/js/2.efae1e80.chunk.js": "/desafio/static/js/2.efae1e80.chunk.js",
   "static/js/2.efae1e80.chunk.js.map": "/desafio/static/js/2.efae1e80.chunk.js.map",
   "index.html": "/desafio/index.html",
-  "precache-manifest.2941aadffaf731e66874fc6e094193ce.js": "/desafio/precache-manifest.2941aadffaf731e66874fc6e094193ce.js",
+  "precache-manifest.3a4ffd813c712761e5d9e6e4bae51bd1.js": "/desafio/precache-manifest.3a4ffd813c712761e5d9e6e4bae51bd1.js",
   "service-worker.js": "/desafio/service-worker.js",
   "static/css/2.e0a66802.chunk.css.map": "/desafio/static/css/2.e0a66802.chunk.css.map",
-  "static/css/main.a2684528.chunk.css.map": "/desafio/static/css/main.a2684528.chunk.css.map",
+  "static/css/main.f51bca8e.chunk.css.map": "/desafio/static/css/main.f51bca8e.chunk.css.map",
   "static/media/bootstrap.min.css": "/desafio/static/media/glyphicons-halflings-regular.fa277232.woff"
 }
