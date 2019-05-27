@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0a3bd57.chunk.css",
+    "main.css": "/static/css/main.f8f3c574.chunk.css",
     "main.js": "/static/js/main.33aa0b77.chunk.js",
     "main.js.map": "/static/js/main.33aa0b77.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,9 +8,9 @@
     "static/js/2.e9635070.chunk.js": "/static/js/2.e9635070.chunk.js",
     "static/js/2.e9635070.chunk.js.map": "/static/js/2.e9635070.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8f28d3fa2263c73b7103ee506c92f226.js": "/precache-manifest.8f28d3fa2263c73b7103ee506c92f226.js",
+    "precache-manifest.7de0593d7aaaf0bcab9c4ea54bde6bbe.js": "/precache-manifest.7de0593d7aaaf0bcab9c4ea54bde6bbe.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c0a3bd57.chunk.css.map": "/static/css/main.c0a3bd57.chunk.css.map",
+    "static/css/main.f8f3c574.chunk.css.map": "/static/css/main.f8f3c574.chunk.css.map",
     "static/media/main.scss": "/static/media/seguisb_1.a277c940.ttf"
   }
 }
